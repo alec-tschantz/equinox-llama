@@ -54,7 +54,7 @@ import equinox as eqx
 
 from typing import Optional, Tuple
 
-from port.l3_eqx import (
+from llama.model import (
     LlamaEmbedding,
     LlamaLinear,
     LlamaRotaryEmbedding,
